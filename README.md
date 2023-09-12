@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meghala M R
-- 👀 I’m interested in ...Programming and Data Analytics
+- 👀 I’m interested in ...Programming and Data Analytics, Developing GUI Applications.
 - 🌱 I’m currently learning ...Full stack Data Analytics Course in ineuron.ai which includes the MySQL,PowerBI, Snowflake Fundamentals, Tableau, Excel, Python. 
 - 📫 How to reach me ...mrmeghala@gmail.com
 
